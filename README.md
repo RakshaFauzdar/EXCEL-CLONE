@@ -1,7 +1,11 @@
 # EXCEL-CLONE
-Clone of Excel sheet 
-Tech used :
-       1.HTML
-       2.CSS
-       3.Jquery
+<br>
+Clone of Excel sheet
+<br>
+<br>
+Tech used :<br>
+<br>
+       1.HTML<br>
+       2.CSS<br>
+       3.Jquery<br>
        4.data structures(concepts)
